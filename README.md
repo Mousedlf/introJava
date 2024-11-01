@@ -8,5 +8,9 @@
     </li>
     <li>
         <strong>Récupérateur de blagues</strong> : Ce jeu permet au joueur de récupérer une blague Chuck Norris aléatoire via une API. Le joueur peut cliquer sur un bouton pour obtenir une blague, qui est ensuite affichée à l'écran. Cela montre comment intégrer des requêtes HTTP et gérer des réponses JSON dans une application Java.
-    </li>
+    <ul>
+    <li>utilisation du package Jackson : https://github.com/FasterXML/jackson</li>
+    </ul>
+</li>
+    
 </ul>
